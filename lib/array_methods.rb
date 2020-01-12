@@ -7,7 +7,8 @@ else
 end
 
 def using_sort(array)
-mycolors = ["green","red", "white"]
+  mycolors = ["green","red", "white"]
+  mycolors.sort
 end
 
 def using_reverse(array)
