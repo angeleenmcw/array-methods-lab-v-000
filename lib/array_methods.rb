@@ -1,7 +1,7 @@
 def using_include(array, element)
   mycolors = ["green","red", "white"]
   mycolors.include?("pink")
-  TRUE
+ => TRUE
 else
   FALSE
 end
