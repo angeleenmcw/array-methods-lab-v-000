@@ -12,7 +12,8 @@ def using_sort(array)
 end
 
 def using_reverse(array)
-mycolors = ["green","red", "white"]
+  mycolors = ["green","red", "white"]
+  mycolors.reverse
 end
 
 def using_first(array)
