@@ -3,7 +3,7 @@ def using_include(array, element)
   mycolors.include?("pink")
   => TRUE
 else
-  =>FALSE
+  => FALSE
 end
 
 def using_sort(array)
@@ -27,5 +27,6 @@ def using_last(array)
 end
 
 def using_size(array)
-mycolors = ["green","red", "white"]
+  mycolors = ["green","red", "white"]
+  mycolors.size
 end
