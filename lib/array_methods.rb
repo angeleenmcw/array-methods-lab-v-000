@@ -1,6 +1,6 @@
 def using_include(array, element)
   mycolors = ["green","red", "white"]
-  mycolors.include("pink")
+  mycolors.include?("pink")
   TRUE
 else
   FALSE
